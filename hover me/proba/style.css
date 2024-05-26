@@ -1,0 +1,148 @@
+body{
+    background-color:#191919;
+}
+.container{
+    width:100%;
+    height:97vh;
+    display:grid;
+    justify-content:space-around;
+    align-content:center;
+    grid-template-columns:200px 200px 200px;
+    grid-template-rows:50px;
+}
+.item{
+    display:grid;
+    justify-content: center;
+    align-content:center;
+    transition-duration:1s;
+}
+.a1{
+    color:#4BC6EE;
+    border:solid #4BC6EE 2px;
+}
+.a2{
+    color:#EF36FD;
+    border:solid #EF36FD 2px;
+}
+.a3{
+    color:#BCE863;
+    border:solid #BCE863 2px;
+}
+.a1:hover{
+    box-shadow: -1px -1px 400px 51px#4BC6EE;
+    color:white;
+    background-color: #4BC6EE;
+}
+.a2:hover{
+    box-shadow: -1px -1px 400px 51px#EF36FD;
+    color:white;
+    background-color: #EF36FD;
+}
+.a3:hover{
+    box-shadow: -1px -1px 400px 51px#BCE863;
+    color:white;
+    background-color: #BCE863;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
